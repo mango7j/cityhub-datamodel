@@ -16,9 +16,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'cityhub'
-copyright = '2019, keti'
-author = 'keti'
+project = 'Data Model'
+copyright = '2019, City-Hub'
+author = 'KETI'
 
 
 # -- General configuration ---------------------------------------------------
