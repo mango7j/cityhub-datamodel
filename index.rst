@@ -11,7 +11,6 @@ Welcome Text Here.
 .. toctree::
   :maxdepth: 2
   
-  basic
   OffStreetParking
   ParkingSpot
   AirQualityObserved

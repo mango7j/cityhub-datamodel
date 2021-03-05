@@ -16,8 +16,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Data Model'
-copyright = '2019, City-Hub'
+project = 'City Data-Hub'
+copyright = '2021, KETI'
 author = 'KETI'
 
 
